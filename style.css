@@ -1,0 +1,19 @@
+.heading{
+    font-size: 15px;
+    width: 100%;
+    margin: 0px;
+
+}
+body{
+    background-size: cover;
+}
+.SongName_button{
+    
+    font-size: 25px;
+}
+canvas{
+    border:5px solid indianred;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px aquamarine;
+    margin-top: 100px;
+}
